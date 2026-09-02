@@ -1,0 +1,19 @@
+{
+  "validated_at": "2026-09-02",
+  "structural_quality": "pass",
+  "content_quality": "pass_after_rewrite",
+  "rows_checked": 50,
+  "rows_rewritten": 50,
+  "rows_rejected": 0,
+  "steam_appids_checked": 82,
+  "entity_endpoints_checked": 100,
+  "entity_endpoint_failures": 0,
+  "missing_required_fields": 0,
+  "duplicate_relation_ids": 0,
+  "duplicate_undirected_pairs": 0,
+  "missing_source_url_coverage": 0,
+  "promotional_wording_flags_after_rewrite": 0,
+  "remaining_blockers": [
+    "External platform account sign-in and publication action."
+  ]
+}

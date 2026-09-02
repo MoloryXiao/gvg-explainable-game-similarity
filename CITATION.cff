@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: GVG Explainable Game Similarity Dataset 2026
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: Miles (Game V Game)
+    email: miles@gamevgame.com
+version: 0.1.0
+date-released: '2026-09-02'
+license: CC-BY-4.0
+url: https://gamevgame.com/en/data
+repository-code: https://github.com/MoloryXiao/gvg-explainable-game-similarity
+abstract: >-
+  50 human-reviewed pairs of similar PC games (82 games) with bilingual
+  explanations of why they are similar, what differs and who each suits;
+  every row cites official Steam store records with capture dates.

@@ -1,0 +1,29 @@
+{
+  "title": "GVG Explainable Game Similarity Dataset 2026",
+  "version": "0.1.0",
+  "status": "public_release_ready_not_uploaded",
+  "creators": [
+    {
+      "name": "Miles",
+      "type": "person"
+    }
+  ],
+  "publisher": "Game V Game",
+  "snapshot_date": "2026-09-02",
+  "language": [
+    "en",
+    "zh-CN"
+  ],
+  "rows": 50,
+  "unique_undirected_pairs": 50,
+  "unique_games": 82,
+  "unique_sources": 82,
+  "source_scope": "official Steam store appdetails records for both games in each pair",
+  "annotation_scope": "GVG-authored bilingual similarity explanations and trade-offs",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "corrections": {
+    "url": "https://gamevgame.com/contact",
+    "email": "support@gamevgame.com"
+  }
+}

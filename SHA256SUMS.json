@@ -1,0 +1,12 @@
+[
+  {
+    "file": "data/gvg-explainable-game-similarity-v0.1.csv",
+    "sha256": "c3bbf744e870e251149fa7bc04035b056218230d485901626a912960695838be",
+    "bytes": 57447
+  },
+  {
+    "file": "data/sources.csv",
+    "sha256": "6decd59ebbe12d43cee2dc1f5969c7555ba7a9cb1d6d848cb416119e83c0b3fd",
+    "bytes": 9239
+  }
+]
