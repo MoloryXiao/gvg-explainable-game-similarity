@@ -1,7 +1,7 @@
 # GVG Explainable Game Similarity Dataset 2026
 
 Version: `0.1.0`  
-Status: **published** — canonical page and downloads at <https://gamevgame.com/en/data>  
+Status: **published** — canonical page and downloads at <https://doi.org/10.5281/zenodo.22250985en/data>  
 Snapshot: 2026-09-02
 
 ## What is included
@@ -35,11 +35,11 @@ Official store pages validate game identity and described features. They do not 
 
 ## Citation
 
-Suggested citation until a DOI is assigned:
+Suggested citation:
 
 > Miles. (2026). *GVG Explainable Game Similarity Dataset 2026* (Version 0.1.0). https://gamevgame.com/
 
-Replace the website URL with the Zenodo DOI after publication.
+DOI: https://doi.org/10.5281/zenodo.22250985 (Zenodo archive of v0.1.0). Canonical page: https://gamevgame.com/en/data
 
 ## License
 

@@ -5,6 +5,7 @@ type: dataset
 authors:
   - name: Miles (Game V Game)
     email: miles@gamevgame.com
+doi: 10.5281/zenodo.22250985
 version: 0.1.0
 date-released: '2026-09-02'
 license: CC-BY-4.0
